@@ -1,0 +1,4 @@
+# Project exclude paths
+/DefineLang/.gradle/
+/DefineLang/varlang/build/
+/DefineLang/varlang/build/classes/java/main/
